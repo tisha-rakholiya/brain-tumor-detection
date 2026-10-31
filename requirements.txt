@@ -1,4 +1,5 @@
-tensorflow==VERSION_JO_COLAB_MAI_PRINT_HUA
+tensorflow==2.21.0
+keras==3.13.2
 streamlit
 pillow
 numpy
