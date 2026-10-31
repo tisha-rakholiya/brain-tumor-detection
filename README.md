@@ -4,7 +4,7 @@ A Digital Image Processing (DIP) course project that classifies brain MRI images
 
 > **Disclaimer:** This is an educational project. It is **not** a medical device and must not be used for diagnosis or any medical decision.
 
-**Live demo:** _add your Streamlit link here after deployment_
+**Live demo:** https://brain-tumor-detection-6mbapuwampgmf99tnykqht.streamlit.app/
 
 ---
 
