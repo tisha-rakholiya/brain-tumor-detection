@@ -1,0 +1,4 @@
+tensorflow==VERSION_JO_COLAB_MAI_PRINT_HUA
+streamlit
+pillow
+numpy
